@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Nishankar</h1>
-<h3 align="center">I'am studying at UOP</h3>
+<h1 align="center">Hi 👋, I'm Jathurshan</h1>
+<h3 align="center">I'am studying at UOJ</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nishan-Charlie" alt="Nishan-Charlie" /></a> </p>
 
 
-- 🔭 I’m currently working on [NGS data Analysing ToolKit](https://github.com/Nishan-Charlie/e17-co328-NGS-Data-AnalysingToolkit)
+#- 🔭 I’m currently working on [NGS data Analysing ToolKit](https://github.com/Nishan-Charlie/e17-co328-NGS-Data-AnalysingToolkit)
 
 - 🌱 I’m currently learning *Web Application,Networking , Machine Learning,Network security,Empedded system,Algorithms*
 
