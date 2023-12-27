@@ -2,10 +2,8 @@
 <h3 align="center">I'am studying at UOJ</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nishan-Charlie" alt="Nishan-Charlie" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jathuRSHAN" alt="jathuRSHAN" /></a> </p>
 
-
-//- 🔭 I’m currently working on [NGS data Analysing ToolKit](https:)
 
 - 🌱 I’m currently learning *Web Application,Networking , Machine Learning,Network security,Empedded system,Algorithms*
 
