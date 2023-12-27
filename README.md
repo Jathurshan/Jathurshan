@@ -5,13 +5,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nishan-Charlie" alt="Nishan-Charlie" /></a> </p>
 
 
-#- 🔭 I’m currently working on [NGS data Analysing ToolKit](https://github.com/Nishan-Charlie/e17-co328-NGS-Data-AnalysingToolkit)
+//- 🔭 I’m currently working on [NGS data Analysing ToolKit](https:)
 
 - 🌱 I’m currently learning *Web Application,Networking , Machine Learning,Network security,Empedded system,Algorithms*
 
 - 📝 I regularly write articles on 
 
-- 📫 How to reach me *NishanNishankar@gmail.com*
+- 📫 How to reach me *jathurshan19980419@gmail.com*
 
 
 <h3 align="left">Languages and Tools:</h3>
